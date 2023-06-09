@@ -1,7 +1,7 @@
 
 """Super keyword is used to access parent methods and constructor.
-   Remember one thing that we cannot super outside class
-   Super keyword should be first line whrn used inside constructor
+   Remember one thing that we cannot use super outside class
+   Super keyword should be first line when used inside constructor
    """
 
 class phone:
